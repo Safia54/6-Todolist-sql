@@ -1,0 +1,5 @@
+.barre {
+	/*faire du texte barré */
+	text-decoration: line-through;
+	display: inline-block;
+}
